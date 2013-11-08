@@ -1,0 +1,27 @@
+.fox h2 {
+  margin-top: 10%;
+  font-size: 2em;
+  letter-spacing: 2px; }
+
+.steve-quote h2 {
+  font-size: 3em;
+  text-transform: none;
+  line-height: 1em;
+  text-align: left; }
+.steve-quote p {
+  text-transform: uppercase;
+  font-size: 0.7em;
+  border-top: 5px solid #fff;
+  width: 60%;
+  padding-top: 10px; }
+
+.shibe-data .slide-background {
+  background-size: contain; }
+.shibe-data h2 {
+  text-align: left;
+  margin-top: 50%; }
+  .shibe-data h2 span {
+    background: #fff;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: #333; }
