@@ -1,6 +1,12 @@
 .homescreen h1 {
   border-bottom: 10px solid #fff;
   padding-bottom: 10px; }
+.homescreen h3 {
+  font-size: 0.9em;
+  text-transform: none;
+  letter-spacing: 2px;
+  line-height: 1.2em;
+  font-family: 'georgia', sans-serif; }
 
 .fox h2 {
   margin-top: 10%;
