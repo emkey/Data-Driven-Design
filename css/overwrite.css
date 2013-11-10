@@ -34,3 +34,15 @@
   margin-top: -100px; }
 .megaman-data p {
   text-shadow: 0px 0px 20px #333; }
+
+.ie h2 {
+  color: #333; }
+
+.designsucks h2 {
+  border-bottom: 5px solid #fff;
+  padding-bottom: 100px;
+  margin-bottom: 100px; }
+
+.wowsuchlearning .slide-background {
+  background-size: contain;
+  background-repeat: no-repeat; }
